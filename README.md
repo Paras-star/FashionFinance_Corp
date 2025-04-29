@@ -26,7 +26,6 @@ The dashboard provides **insights into profitability, brand performance, regiona
 |------|-------------|
 | [Fashion_Corp Brand_Info.xlsx](https://github.com/user-attachments/files/19959190/Fashion_Corp.Brand_Info.xlsx)
 [FashionCorp.pdf](https://github.com/user-attachments/files/19959201/FashionCorp.pdf)
-![FashionCorp Project Briefing](https://github.com/user-attachments/assets/68d1606c-60ea-4cea-b027-2bd3dd23eeba)
 
 ---
 
