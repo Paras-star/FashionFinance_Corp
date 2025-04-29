@@ -8,6 +8,8 @@ The dashboard provides **insights into profitability, brand performance, regiona
 - Identify **top-performing brands** and **regions** based on revenue and profit.
 - Visualize **spending efficiency** and suggest optimization areas for marketing investments.
 ## 📊 Dashboard Preview
+![FashionCorp Project Briefing](https://github.com/user-attachments/assets/291b4fc6-605e-4f3a-8f57-c0d42a9e9b8c)
+
 [FashionCorp.pdf](https://github.com/user-attachments/files/19959025/FashionCorp.pdf)
 ## 🔍 Key Features
 - **KPI Cards** showing Total Revenue, Net Profit, and ROI
@@ -17,24 +19,14 @@ The dashboard provides **insights into profitability, brand performance, regiona
 - **Scatter Chart** of Marketing Spend vs Net Profit
 - **Map Visualization** for Regional Financial Performance
 - **Top 5 Brands by Net Profit Margin**
-  ## 📁 Folder Structure
-FashionCorp-Financial-Analysis/
-
-├── Data/
-
-│   └── FashionCorp_Dataset.xlsx
-
-├── Dashboard/
-
-│   └── FashionCorp_Dashboard.pdf
-
-└── README.md
+  
 ## 📂 Files Included
 
 | File | Description |
 |------|-------------|
 | [Fashion_Corp Brand_Info.xlsx](https://github.com/user-attachments/files/19959190/Fashion_Corp.Brand_Info.xlsx)
 [FashionCorp.pdf](https://github.com/user-attachments/files/19959201/FashionCorp.pdf)
+![FashionCorp Project Briefing](https://github.com/user-attachments/assets/68d1606c-60ea-4cea-b027-2bd3dd23eeba)
 
 ---
 
