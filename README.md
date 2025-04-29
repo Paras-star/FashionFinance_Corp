@@ -9,4 +9,12 @@ The dashboard provides **insights into profitability, brand performance, regiona
 - Visualize **spending efficiency** and suggest optimization areas for marketing investments.
 ## 📊 Dashboard Preview
 [FashionCorp.pdf](https://github.com/user-attachments/files/19959025/FashionCorp.pdf)
-
+## 🔍 Key Features
+- **KPI Cards** showing Total Revenue, Net Profit, and ROI
+- **Bar Charts** of Top Regions by Revenue
+- **Line Chart** showing Profit Trends by Month
+- **Pie Chart** of Revenue Share by Brand
+- **Scatter Chart** of Marketing Spend vs Net Profit
+- **Map Visualization** for Regional Financial Performance
+- **Top 5 Brands by Net Profit Margin**
+  ## 📁 Folder Structure
