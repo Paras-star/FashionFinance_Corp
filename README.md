@@ -18,3 +18,25 @@ The dashboard provides **insights into profitability, brand performance, regiona
 - **Map Visualization** for Regional Financial Performance
 - **Top 5 Brands by Net Profit Margin**
   ## 📁 Folder Structure
+FashionCorp-Financial-Analysis/
+
+├── Data/
+
+│   └── FashionCorp_Dataset.xlsx
+
+├── Dashboard/
+
+│   ├── FashionCorp_Dashboard_Screenshot.png
+
+│   └── FashionCorp_Dashboard.pdf
+
+├── Project/
+
+│   └── FashionCorp_Financial_Analysis.pbix
+
+├── Documentation/
+
+│   └── Data_Model_Screenshot.png
+
+└── README.md
+
