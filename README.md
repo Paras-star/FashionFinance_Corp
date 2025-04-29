@@ -26,17 +26,7 @@ FashionCorp-Financial-Analysis/
 
 ├── Dashboard/
 
-│   ├── FashionCorp_Dashboard_Screenshot.png
-
 │   └── FashionCorp_Dashboard.pdf
-
-├── Project/
-
-│   └── FashionCorp_Financial_Analysis.pbix
-
-├── Documentation/
-
-│   └── Data_Model_Screenshot.png
 
 └── README.md
 ## 📂 Files Included
