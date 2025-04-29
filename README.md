@@ -7,3 +7,6 @@ The dashboard provides **insights into profitability, brand performance, regiona
 - Analyze financial health using key metrics like **net profit**, **ROI**, and **net profit margin**.
 - Identify **top-performing brands** and **regions** based on revenue and profit.
 - Visualize **spending efficiency** and suggest optimization areas for marketing investments.
+## 📊 Dashboard Preview
+[FashionCorp.pdf](https://github.com/user-attachments/files/19959025/FashionCorp.pdf)
+
