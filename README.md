@@ -26,7 +26,7 @@ The dashboard provides **insights into profitability, brand performance, regiona
 | File | Description |
 |------|-------------|
 | [Fashion_Corp Brand_Info.xlsx](https://github.com/user-attachments/files/19959190/Fashion_Corp.Brand_Info.xlsx) | Excel data file used in project|
-[FashionCorp Project.pdf](https://github.com/user-attachments/files/20279296/FashionCorp.Project.pdf)
+[FashionCorp Project.pdf](https://github.com/user-attachments/files/20279296/FashionCorp.Project.pdf) | Final Project exported s PDF |
 ---
 
 ## 📈 KPIs and Metrics
