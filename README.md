@@ -8,7 +8,7 @@ The dashboard provides **insights into profitability, brand performance, regiona
 - Identify **top-performing brands** and **regions** based on revenue and profit.
 - Visualize **spending efficiency** and suggest optimization areas for marketing investments.
 ## 📊 Dashboard Preview
-![FashionCorp](https://github.com/user-attachments/assets/643e9456-2c05-4d97-be2c-cfc26b9da014)
+![FashionCorp](https://github.com/user-attachments/assets/766463da-284e-4c36-99d7-d3812393faa1)
 
 [FashionCorp Project.pdf](https://github.com/user-attachments/files/20279296/FashionCorp.Project.pdf)
 
